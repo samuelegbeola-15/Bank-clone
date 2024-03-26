@@ -5,7 +5,7 @@
 
 // Data
 const account1 = {
-  owner: 'Jonas Schmedtmann',
+  owner: 'Tayo Ayodele',
   movements: [200, 450, -400, 3000, -650, -130, 70, 1300],
   interestRate: 1.3, // in %
   pin: 1111,
